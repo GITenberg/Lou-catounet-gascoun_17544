@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7445'
     url: http://www.gutenberg.org/2009/agents/7445
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17544#Lou-catounet-gascoun
 gutenberg_issued: '2006-01-18'
 gutenberg_type: Text
 identifiers:
